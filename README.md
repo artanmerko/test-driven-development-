@@ -1,4 +1,4 @@
-# test-driven-development
+# test-driven-development introduction
 # Test-Driven Development - TDD Introduction with JavaScript
 
 ## About 
@@ -12,4 +12,13 @@ Test-Driven Development (TDD) is a proven prevent bugs and improve the quality o
 
 ![tdd-life-circle-1](https://user-images.githubusercontent.com/97398977/170129998-a41b9635-aba8-4a87-a3e3-cd0af8d17b70.png)
 
+### How to start
 
+ ```
+ npm init @vitejs/app
+ ```
+ 
+- What unit testing is
+- Why testing is important
+- How to write unit tests with Jest
+- The importance of test coverage
