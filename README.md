@@ -51,3 +51,7 @@ to allow vs code to provide intellisense for everything built into jest
 ```
 npm run test
 ```
+Add coverage to see 100% code coverage
+```
+"test": "--coverage"
+```
