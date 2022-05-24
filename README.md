@@ -59,3 +59,7 @@ Add coverage to see 100% code coverage
 ```
 npm install cypress -D
 ```
+Add end-to-end script 
+```
+"e2e": "cypress open"
+```
