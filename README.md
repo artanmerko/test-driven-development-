@@ -21,4 +21,6 @@ Test-Driven Development (TDD) is a proven prevent bugs and improve the quality o
  ```
  npm install jest --save-dev
  ```
+ Create file js/stack.test.js for testing
+ 
 
