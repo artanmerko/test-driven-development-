@@ -28,4 +28,6 @@ package.json
 "test": "jest"
 ```
 We can add `--watchAll` to rerun the test anytime it changes and `--verbose` to add some extra output to the terminal
- ``
+```
+"test": "jest --watchAll --verbose"
+```
