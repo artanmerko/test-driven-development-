@@ -46,3 +46,8 @@ Create `jsconfig.json` and add
 }
 ```
 to allow vs code to provide intellisense for everything built into jest
+
+### How to Test
+```
+npm run test
+```
