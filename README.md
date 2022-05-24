@@ -23,4 +23,7 @@ Test-Driven Development (TDD) is a proven prevent bugs and improve the quality o
  ```
  Create file js/stack.test.js for testing
  
-
+package.json 
+```
+"test": "jest"
+```
