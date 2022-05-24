@@ -8,3 +8,5 @@ Test-Driven Development (TDD) is a proven prevent bugs and improve the quality o
 - Jest https://jestjs.io/
 - Cypress https://www.cypress.io/
 - Fun TDD Introduction with JavaScript https://www.youtube.com/watch?v=Jv2uxzhPFl4
+
+https://marsner.com/wp-content/uploads/test-driven-development-TDD.png
