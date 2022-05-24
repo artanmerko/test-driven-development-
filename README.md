@@ -53,5 +53,9 @@ npm run test
 ```
 Add coverage to see 100% code coverage
 ```
-"test": "--coverage"
+"test": "jest --watchAll --verbose --coverage"
+```
+### How to write end-to-end test
+```
+npm install cypress -D
 ```
