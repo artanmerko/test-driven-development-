@@ -31,3 +31,18 @@ We can add `--watchAll` to rerun the test anytime it changes and `--verbose` to 
 ```
 "test": "jest --watchAll --verbose"
 ```
+Add Types
+```
+npm install @types/jest --save-dev
+```
+Create `jsconfig.json` and add
+```
+{
+  "typeAcquisition": {
+      "include": [
+          "jest"
+      ]
+  }
+}
+```
+to allow vs code to provide intellisense for everything built into jest
